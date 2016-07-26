@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3ebee3-9bb1-421c-80e2-7e8eec6427b8.jpg
 inLanguage: null
 keywords: []
 description: >-
@@ -12,9 +10,9 @@ description: >-
   within the vast world of financial planning opportunities and the most
   cost-effective and tax-efficient investment solutions. We have the access to
   alternative investments not typically available through traditional companies,
-  which can help reduce risk and increase the profit.   
-datePublished: '2016-07-26T15:23:12.318Z'
-dateModified: '2016-07-26T15:18:03.275Z'
+  which can help reduce risk and increase the profit. 
+datePublished: '2016-07-26T15:27:24.183Z'
+dateModified: '2016-07-26T15:27:23.060Z'
 author:
   - name: ''
     url: ''
@@ -22,13 +20,10 @@ via: {}
 title: MJB Associates. Wealth management experts.
 sourcePath: _posts/2016-07-26-mjb-associates-wealth-management-experts.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: false
-_type: MediaObject
+url: mjb-associates-wealth-management-experts/index.html
+_type: Article
 
 ---
 ![Marcel Berny](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3ebee3-9bb1-421c-80e2-7e8eec6427b8.jpg)
