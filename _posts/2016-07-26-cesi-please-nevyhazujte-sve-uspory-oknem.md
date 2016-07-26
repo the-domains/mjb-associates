@@ -1,21 +1,28 @@
 ---
-datePublished: '2016-07-26T14:47:26.090Z'
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50cb83d7-9cb3-499d-b7d8-959f5e8ccb66.jpg
-author: []
-via: {}
-dateModified: '2016-07-26T14:34:15.641Z'
-title: 'Češi, please, nevyhazujte své úspory oknem.'
-publisher: {}
+inLanguage: null
+keywords: []
 description: >-
   Peněz není nikdy tolik, aby jich nemohlo být víc. Jak je přimět, aby se
   vydělávaly samy, radí britský finanční konzultant Marcel Berny žijící v Praze.
   Následující text zahajuje sérii článků na téma inteligentního investování.
-starred: false
+datePublished: '2016-07-26T14:50:20.026Z'
+dateModified: '2016-07-26T14:50:15.064Z'
+author: []
+via: {}
+title: 'Češi, please, nevyhazujte své úspory oknem.'
 sourcePath: _posts/2016-07-26-cesi-please-nevyhazujte-sve-uspory-oknem.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
