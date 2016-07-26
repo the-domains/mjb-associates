@@ -22,8 +22,8 @@ description: >-
   recommendations, but also frees me from the worry and stress which I would
   otherwise have about the state of my investments and pension in an
   unpredictable economy.
-datePublished: '2016-07-26T14:43:17.623Z'
-dateModified: '2016-07-26T14:37:41.446Z'
+datePublished: '2016-07-26T14:53:21.424Z'
+dateModified: '2016-07-26T14:53:16.703Z'
 related: []
 author:
   - name: Marcel Berny
