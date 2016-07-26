@@ -1,20 +1,4 @@
-name: MJB Associates
-favicon: null
-layout_spectrum: 0.48827
 typography_spectrum: 0.8257878581061959
-title: MJB Associates
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7F2B2'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5047064167447388
   saturation: 0.5
   rhythmicContrast: 0.8110274395439774
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48827
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MJB Associates
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 3ff98a95-c461-48b6-b132-df7aca96fff2
+    name: About.
+    type: content
+favicon: null
+title: MJB Associates
 purpose: []
