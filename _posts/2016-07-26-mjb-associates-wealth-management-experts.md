@@ -12,12 +12,9 @@ description: >-
   within the vast world of financial planning opportunities and the most
   cost-effective and tax-efficient investment solutions. We have the access to
   alternative investments not typically available through traditional companies,
-  which can help reduce risk and increase the profit.  Marcel Berny contributed
-  a regular feature article called Smart Money for the monthly E15 magazine Zen,
-  to do with Global finance and investments, also wrote articles for "Law &
-  Business" magazine.
-datePublished: '2016-07-26T15:06:14.945Z'
-dateModified: '2016-07-26T15:06:05.415Z'
+  which can help reduce risk and increase the profit.   
+datePublished: '2016-07-26T15:23:12.318Z'
+dateModified: '2016-07-26T15:18:03.275Z'
 author:
   - name: ''
     url: ''
@@ -38,5 +35,6 @@ _type: MediaObject
 
 # MJB Associates. Wealth management experts.
 
-I have been working in Prague for over 8 years, designing bespoke financial solutions to Czech nationals and expats. MJB Associates offer the best options within the vast world of financial planning opportunities and the most cost-effective and tax-efficient investment solutions. We have the access to alternative investments not typically available through traditional companies, which can help reduce risk and increase the profit.   
+I have been working in Prague for over 8 years, designing bespoke financial solutions to Czech nationals and expats. MJB Associates offer the best options within the vast world of financial planning opportunities and the most cost-effective and tax-efficient investment solutions. We have the access to alternative investments not typically available through traditional companies, which can help reduce risk and increase the profit. 
+
 Marcel Berny contributed a regular feature article called Smart Money for the monthly E15 magazine Zen, to do with Global finance and investments, also wrote articles for "Law & Business" magazine.
