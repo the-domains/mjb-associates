@@ -1,4 +1,24 @@
+name: MJB Associates
+favicon: null
+layout_spectrum: 0.85175
 typography_spectrum: 0.5667279947083443
+navigation:
+  - id: 72c30f14-e62e-4592-99cb-9c3c7cd0d6fa
+    name: References to Marcel Berny
+    type: content
+title: MJB Associates
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F9E4AD'
@@ -6,28 +26,8 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
-  brandStrength: 0.19765779795125127
+  brandStrength: 0.25
   lightness: 0.733044819906354
   saturation: 0.6254204406868666
   rhythmicContrast: 0.3797961906529963
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.41995061840862036
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: MJB Associates
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - id: 72c30f14-e62e-4592-99cb-9c3c7cd0d6fa
-    name: References to Marcel Berny
-    type: content
-favicon: null
-title: MJB Associates
 purpose: []
