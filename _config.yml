@@ -1,6 +1,6 @@
 name: MJB Associates
 favicon: null
-layout_spectrum: 0.19649976305663586
+layout_spectrum: 1
 typography_spectrum: 0.8257878581061959
 title: MJB Associates
 cta:
@@ -24,6 +24,6 @@ color:
     - '#8E3557'
   brandStrength: 0.7799404645338655
   lightness: 0.5047064167447388
-  saturation: 0.9502929227892309
+  saturation: 0.5
   rhythmicContrast: 0.8110274395439774
 purpose: []
