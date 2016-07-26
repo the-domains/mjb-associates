@@ -16,17 +16,19 @@ description: >-
   a regular feature article called Smart Money for the monthly E15 magazine Zen,
   to do with Global finance and investments, also wrote articles for "Law &
   Business" magazine.
-datePublished: '2016-07-26T14:55:19.541Z'
-dateModified: '2016-07-26T14:55:18.979Z'
-author: []
+datePublished: '2016-07-26T15:06:14.945Z'
+dateModified: '2016-07-26T15:06:05.415Z'
+author:
+  - name: ''
+    url: ''
 via: {}
 title: MJB Associates. Wealth management experts.
 sourcePath: _posts/2016-07-26-mjb-associates-wealth-management-experts.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: MediaObject
