@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://www.linkedin.com/pulse/references-marcel-berny-marcel-berny?trk=prof-post
 inLanguage: en
 keywords:
   - marcel
@@ -22,8 +20,8 @@ description: >-
   recommendations, but also frees me from the worry and stress which I would
   otherwise have about the state of my investments and pension in an
   unpredictable economy.
-datePublished: '2016-07-26T14:53:21.424Z'
-dateModified: '2016-07-26T14:53:16.703Z'
+datePublished: '2016-07-26T15:31:48.988Z'
+dateModified: '2016-07-26T15:31:48.126Z'
 related: []
 author:
   - name: Marcel Berny
@@ -40,6 +38,7 @@ publisher:
   url: 'https://www.linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
 starred: false
+url: references-to-marcel-berny/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
